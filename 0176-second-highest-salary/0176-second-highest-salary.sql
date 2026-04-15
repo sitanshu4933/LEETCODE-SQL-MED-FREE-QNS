@@ -1,21 +1,21 @@
 /* Write your T-SQL query statement below */
 -- Solution - 1
 -----------------------------
-SELECT ( 
-SELECT DISTINCT salary FROM
-(SELECT salary,
-DENSE_RANK() over (order by salary desc) r
-FROM employee) s
-WHERE r=2) AS SecondHighestSalary ;
+-- SELECT ( 
+-- SELECT DISTINCT salary FROM
+-- (SELECT salary,
+-- DENSE_RANK() over (order by salary desc) r
+-- FROM employee) s
+-- WHERE r=2) AS SecondHighestSalary ;
 
 --Solution - 2 
 ----------------------------------
--- SELECT (
--- SELECT salary 
--- FROM employee o
--- WHERE 1 = (SELECT COUNT(DISTINCT SALARY)
---             FROM employee i
---             WHERE o.salary > i.salary))  AS SecondHighestSalary;
+SELECT (
+SELECT DISTINCT salary 
+FROM employee o
+WHERE 1 = (SELECT COUNT(DISTINCT SALARY)
+            FROM employee i
+            WHERE i.salary > o.salary))  AS SecondHighestSalary;
 
 -- Solution - 3
 -----------------------------------
