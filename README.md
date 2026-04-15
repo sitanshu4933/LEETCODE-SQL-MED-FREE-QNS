@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/sitanshu4933/SQL-MED-FREE-QNS/tree/master/0176-second-highest-salary) |
 | [0550-game-play-analysis-iv](https://github.com/sitanshu4933/SQL-MED-FREE-QNS/tree/master/0550-game-play-analysis-iv) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/sitanshu4933/SQL-MED-FREE-QNS/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [3482-analyze-organization-hierarchy](https://github.com/sitanshu4933/SQL-MED-FREE-QNS/tree/master/3482-analyze-organization-hierarchy) |
 | [3554-find-category-recommendation-pairs](https://github.com/sitanshu4933/SQL-MED-FREE-QNS/tree/master/3554-find-category-recommendation-pairs) |
 <!---LeetCode Topics End-->
