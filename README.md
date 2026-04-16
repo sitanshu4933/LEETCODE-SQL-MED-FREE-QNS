@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/sitanshu4933/SQL-MED-FREE-QNS/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sitanshu4933/SQL-MED-FREE-QNS/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/sitanshu4933/SQL-MED-FREE-QNS/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0608-tree-node](https://github.com/sitanshu4933/SQL-MED-FREE-QNS/tree/master/0608-tree-node) |
 | [3482-analyze-organization-hierarchy](https://github.com/sitanshu4933/SQL-MED-FREE-QNS/tree/master/3482-analyze-organization-hierarchy) |
 | [3554-find-category-recommendation-pairs](https://github.com/sitanshu4933/SQL-MED-FREE-QNS/tree/master/3554-find-category-recommendation-pairs) |
 <!---LeetCode Topics End-->
